@@ -1,6 +1,10 @@
 # 👋 Welcome to my github page! <br />
 
-I’m a results-driven software engineer with over 8 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
+<p align="center">
+  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;Senior%20Web3%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+I’m a results-driven software engineer with over 7 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
 
 
 <img align="right" src="https://img.shields.io/github/followers/blixor?label=Follow&style=social" />
