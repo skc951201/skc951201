@@ -130,6 +130,5 @@ I’m a results-driven software engineer with over 7 years of experience craftin
       <br>MUI
     </td>
  </tr>
- 
 </table>
 
