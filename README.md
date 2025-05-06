@@ -129,7 +129,6 @@ I’m a results-driven software engineer with over 7 years of experience craftin
         <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="PostgreSQL" />
       <br>MUI
     </td>
-    
  </tr>
 </table>
 
