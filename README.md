@@ -7,7 +7,7 @@
 I’m a results-driven software engineer with over 7 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
 
 
-<img align="right" src="https://img.shields.io/github/followers/senkoc1201?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/skc1201?label=Follow&style=social" />
 
 ## ⚡ Favorite Tech
 <br />
