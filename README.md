@@ -55,10 +55,6 @@ I’m a results-driven software engineer with over 7 years of experience craftin
     </td>
   </tr>
   <tr>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -124,10 +120,6 @@ I’m a results-driven software engineer with over 7 years of experience craftin
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="PostgreSQL" />
-      <br>MUI
     </td>
  </tr>
  
