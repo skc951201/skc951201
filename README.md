@@ -1,10 +1,19 @@
 # 👋 Welcome to my github ! <br />
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Python%20Engineer;Blockchain%20developer;Web%20and%20mobile%20master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Developer;Blockchain%20%26%20Web3%20Expert;Smart%20Contract%20Architect;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-I’m a results-driven software engineer with over 7 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
+🚀 **Senior Full-Stack & Blockchain Developer** with 7+ years of experience building cutting-edge solutions across web, mobile, and decentralized applications.
+
+💡 **Core Expertise:**
+- **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, and Web3 applications
+- **Full-Stack Engineering:** Scalable web applications, microservices, and cloud-native solutions
+- **Security-First Approach:** Implementing robust security measures for both traditional and blockchain systems
+
+🌐 I specialize in creating innovative solutions that bridge traditional web technologies with the decentralized future. From enterprise-grade applications to revolutionary blockchain protocols, I deliver secure, scalable, and user-centric solutions for clients worldwide.
+
+🔒 While many of my blockchain and enterprise projects remain confidential, you can explore my open-source contributions and public repositories below.
 
 
 <img align="right" src="https://img.shields.io/github/followers/skc1201?label=Follow&style=social" />
@@ -116,6 +125,40 @@ I’m a results-driven software engineer with over 7 years of experience craftin
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+ </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=web3" width="48" height="48" alt="Web3" />
+      <br>Web3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=hardhat" width="48" height="48" alt="Hardhat" />
+      <br>Hardhat
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=truffle" width="48" height="48" alt="Truffle" />
+      <br>Truffle
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ipfs" width="48" height="48" alt="IPFS" />
+      <br>IPFS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=metamask" width="48" height="48" alt="MetaMask" />
+      <br>MetaMask
     </td>
  </tr>
  
