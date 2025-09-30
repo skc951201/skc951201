@@ -145,7 +145,7 @@
       <br>Ethereum
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=hardhat" width="48" height="48" alt="Hardhat" />
+        <img src="https://github.com/kristianism/kristianism/blob/main/img/hardhat-original.svg" width="48" height="48" alt="Hardhat" />
       <br>Hardhat
     </td>
     <td align="center" width="96">
