@@ -19,7 +19,6 @@
 <img align="right" src="https://img.shields.io/github/followers/skc951201?label=Follow&style=social" />
 
 ## ⚡ My Skills
-## ⚡ My Skills
 <br />
 
 <table align="center">
